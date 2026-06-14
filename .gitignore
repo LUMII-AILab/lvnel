@@ -1,0 +1,8 @@
+*.env
+data/*
+!data/download.sh
+models/
+.venv/
+.DS_Store
+.idea/
+__pycache__/
